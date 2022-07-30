@@ -48,7 +48,7 @@ lifts off the pad in a huge column of smoky exhaust.
 ![SR-2 flight](./SR-2_"Extended_Eaglet"-001:016-07:23:04.jpg)
 
 As if fate wanted to compensate for the SR-1 disaster, the flight went off
-without a flaw. At an altitude of about 45 km, the booster burned out. It had
+without a hitch. At an altitude of about 45 km, the booster burned out. It had
 been decided early on to keep the spent booster for a while, in order to profit
 from the added aerodynamical stability provided by the fins.
 
@@ -60,7 +60,7 @@ climbing at a good clip.
 
 ![SR-2 flight](./SR-2_"Extended_Eaglet"-001:016-07:24:57.jpg)
 
-Across the 80 km mark. SR-1 had officially entered space, as defined by the
+Across the 80 km mark. SR-2 had officially entered space, as defined by the
 World Record Keeping Society (not that there was much difference to 76 km).
 Telemetry still trickled in, indicating that the onboard experiments were
 gathering data. The Eaglet had acquired a a slight rotation within the
