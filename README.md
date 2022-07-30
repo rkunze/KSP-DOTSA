@@ -1,0 +1,1 @@
+# A [mission report/story](story.md) in KSP
