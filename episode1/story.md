@@ -35,7 +35,7 @@ A "thrust instability", the failure analysis concluded some time later. And of
 course, a huge disappointment and a rather severe setback for the Kerbinian
 Society for Astronavigation.
 
-![SR-1 ignition](./SR-1_"Mity_Eaglet"-001:005-06:41:28.jpg)
+![SR-1 failure analysis](./SR-1_"Mity_Eaglet"-001:005-06:41:28.jpg)
 
 But miraculously, the experimental atmospheric guidance/landing engineering
 testbed survived the explosion almost completely undamaged, and even manged to
@@ -49,5 +49,8 @@ level". But nobody wants to investigate, really. Gift horses and all. Don't stir
 the sleeping dogs. At least, the society did not lose too much funds from the
 debacle (they actually turned a small profit).
 
-![SR-1 ignition](./SR-1_"Mity_Eaglet"-001:005-06:42:17.jpg)
-![SR-1 ignition](./SR-1_"Mity_Eaglet"-001:005-06:48:17.jpg)
+![SR-1 contract](./SR-1_"Mity_Eaglet"-001:005-06:42:17.jpg)
+![SR-1 recovery](./SR-1_"Mity_Eaglet"-001:005-06:48:17.jpg)
+
+----------------------------------------------------------------------------------
+[next](../episode2/story.md)
