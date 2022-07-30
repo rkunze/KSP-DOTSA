@@ -37,7 +37,7 @@ At 001/016 07:22:42, Gene Kerman in mission control issues the launch command
 
 ![SR-2 ignition](./SR-2_"Extended_Eaglet"-001:016-07:22:42.jpg)
 
-_Ignition! Launch clamps free! **WE HAVE LIFTOFF!!!!**_
+> _Ignition! Launch clamps free! **WE HAVE LIFTOFF!!!!**_
 
 The cheers from mission control drown out even the roar of the booster, as SR-2
 lifts off the pad in a huge column of smoky exhaust.

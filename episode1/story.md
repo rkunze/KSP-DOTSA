@@ -25,7 +25,7 @@ and good view of the launch pad). SR-1 ready for launch.
 
 ![Image: SR-1 ready for launch](./SR-1_"Mity_Eaglet"-001:005-06:25:03.jpg)
 
-Ignition! Launch clamps free! We have lift— **KABOOOM!!!!**
+> _Ignition! Launch clamps free! We have lift—_ **KABOOOM!!!!**
 
 ![SR-1 ignition](./SR-1_"Mity_Eaglet"-001:005-06:40:47.jpg)
 
