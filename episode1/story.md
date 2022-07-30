@@ -23,11 +23,11 @@ systems go, all personnel safely either in the observation bunker or in mission
 control (and spectators actually atop mission control, thanks to its flat roof
 and good view of the launch pad). SR-1 ready for launch.
 
-![Image: SR-1 ready for launch](SR-1_"Mity_Eaglet"-001:005-06:25:03.jpg)
+![Image: SR-1 ready for launch](./SR-1_"Mity_Eaglet"-001:005-06:25:03.jpg)
 
 Ignition! Launch clamps free! We have lift— **KABOOOM!!!!**
 
-![SR-1 ignition](SR-1_"Mity_Eaglet"-001:005-06:40:47.jpg)
+![SR-1 ignition](./SR-1_"Mity_Eaglet"-001:005-06:40:47.jpg)
 
 Not five meters off the pad, SR-1 blew up in a big fireball.
 
@@ -35,7 +35,7 @@ A "thrust instability", the failure analysis concluded some time later. And of
 course, a huge disappointment and a rather severe setback for the Kerbinian
 Society for Astronavigation.
 
-![SR-1 ignition](SR-1_"Mity_Eaglet"-001:005-06:41:28.jpg)
+![SR-1 ignition](./SR-1_"Mity_Eaglet"-001:005-06:41:28.jpg)
 
 But miraculously, the experimental atmospheric guidance/landing engineering
 testbed survived the explosion almost completely undamaged, and even manged to
@@ -49,5 +49,5 @@ level". But nobody wants to investigate, really. Gift horses and all. Don't stir
 the sleeping dogs. At least, the society did not lose too much funds from the
 debacle (they actually turned a small profit).
 
-![SR-1 ignition](SR-1_"Mity_Eaglet"-001:005-06:42:17.jpg)
-![SR-1 ignition](SR-1_"Mity_Eaglet"-001:005-06:48:17.jpg)
+![SR-1 ignition](./SR-1_"Mity_Eaglet"-001:005-06:42:17.jpg)
+![SR-1 ignition](./SR-1_"Mity_Eaglet"-001:005-06:48:17.jpg)
