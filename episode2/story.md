@@ -72,12 +72,12 @@ back in the atmosphere.
 A couple of tight moments after the (expected) loss of communication with SR-1
 on reentry, and then
 
-> _Flight, Telemetry: Reacquired radio contact. SR-2 core still rotating, but
+> _Telemetry, Flight: Reacquired radio contact. SR-2 core still rotating, but
 > dampened._ \
-> _Flight, Telemetry: Parachutes deploying. Rotation dampening further._ \
-> _Flight, Telemetry: Parachutes deployed in drogue configuration._ \
-> _Flight, Telemetry: Parachutes fully deployed, rotation stopped._ \
-> _Flight, Visual Observation: Confirm parachute deployment. We can see the Eaglet!_
+> _Telemetry, Flight: Parachutes deploying. Rotation dampening further._ \
+> _Telemetry, Flight: Parachutes deployed in drogue configuration._ \
+> _Telemetry, Flight: Parachutes fully deployed, rotation stopped._ \
+> _Visual Observation, Flight: Confirm parachute deployment. We can see the Eaglet!_
 
 ![SR-2 flight](./SR-2_"Extended_Eaglet"-001:016-07:29:06.jpg)
 
@@ -87,9 +87,9 @@ SR-2 "Extended Eaglet" is almost back to Kerbin.
 
 **Almost**. But then:
 
-> _Flight, Telemetry: Something is off with the parachute..._ \
-> _Flight, Visual Observation: Parachute collapsed! Repeat, 'chute collapsed!!_ \
-> _Flight, Telemetry: We lost contact!_
+> _Telemetry, Flight: Something is off with the parachute..._ \
+> _Visual Observation, Flight: Parachute collapsed! Repeat, 'chute collapsed!!_ \
+> _Telemetry, Flight: We lost contact!_
 
 Analysis of the last seconds of telemetry and the telescope images revealed a
 problem with the reefing cutters. Apparently, the small charges used to cut the
