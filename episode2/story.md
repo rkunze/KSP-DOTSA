@@ -100,3 +100,6 @@ And they never found a single piece of SR-2. They searched, of course. But it
 almost seemed as if the Kraken — the mythological creature which according to
 seafarers' lore swallowed whole ships on the high seas — had swallowed SR-2 as
 well. 
+
+----------------------------------------------------------------------------------
+[next](../episode3/story.md)
