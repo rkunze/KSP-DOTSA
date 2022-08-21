@@ -1,12 +1,12 @@
 # Year 1, Day 26: SR-2 "Extended Eaglet" revisited
 
-Another launch, another — not, not really failure, much less debacle. Yes, SR-2
+Another launch, another — no, not really failure, much less debacle. Yes, SR-2
 did not make it back, and valuable scientific and engineering data was lost. But
 SR-2 _did_ fly, it _did_ reach space, and it _almost_ made it safely back to
 Kerbin. That gave the society the confidence to not only try another SR-2 launch in
 almost the same configuration, but to accept another challenge by the
 Experimental Engineering Group: Fly a vessel to space and recover it safely.
-After all, they had almost done it before. 
+After all, they had almost done it before.
 
 The only difference to the first SR-2 mission was a slightly steeper launch
 angle, because telemetry from the earlier flight indicated that the time
@@ -42,7 +42,7 @@ and some seconds later:
 > _Flight, all: Mission abort, repeat, mission abort!_ \
 > _Flight, all: But let's try to recover the probe core if possible._
 
-Almost two minutes later, SR-2 safely touched down not far from KSC. 
+Almost two minutes later, SR-2 safely touched down not far from KSC.
 
 ![SR-2 touchdown](./SR-2_"Extended_Eaglet"-001:026-06:50:57.jpg)
 
@@ -66,12 +66,12 @@ This time, everything went smoothly. Booster burnout at T+00:59. Payload
 separation at T+01:43 (as before, the flight plan demanded to hold onto the
 spent booster after burnout for the added stability provided by the fins).
 
-![SR-2 liftoff](./SR-2_"Extended_Eaglet"-001:026-10:12:30.jpg)
+![SR-2 booster separation](./SR-2_"Extended_Eaglet"-001:026-10:12:30.jpg)
 
 Apoapsis at T+03:07 and 97708 m — another first! Nothing kerbalmade ever went
 farther from Kerbin!
 
-![SR-2 liftoff](./SR-2_"Extended_Eaglet"-001:026-10:13:53.jpg)
+![SR-2 apoapsis](./SR-2_"Extended_Eaglet"-001:026-10:13:53.jpg)
 
 As on the first flight, the Eaglet probe acquired a slight rotation in the
 flight plane, which changed to moderate oscillations around the retrograde
@@ -79,13 +79,13 @@ direction on reentry. These dampened out quickly after deployment of the
 parachutes in drogue configuration at T+06:10, and were negligible when the
 parachute deployed fully at T+06:41
 
-![SR-2 liftoff](./SR-2_"Extended_Eaglet"-001:026-10:17:27.jpg)
+![SR-2 descent](./SR-2_"Extended_Eaglet"-001:026-10:17:27.jpg)
 
 And finally, at T+07:13, on 001/26 10:17:59 on the spot, the Eaglet probe safely
 splashed down into the sea, roughly halfway between the mainland coast and
 Welcome Back Island.
 
-![SR-2 liftoff](./SR-2_"Extended_Eaglet"-001:026-10:17:59.jpg)
+![SR-2 splashed down](./SR-2_"Extended_Eaglet"-001:026-10:17:59.jpg)
 
 Finally. Success at last. The undeniable proof that it _was_ possible to reach
 space in a rocket, and safely come back to Kerbin again (and another big prize
