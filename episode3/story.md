@@ -90,3 +90,6 @@ Welcome Back Island.
 Finally. Success at last. The undeniable proof that it _was_ possible to reach
 space in a rocket, and safely come back to Kerbin again (and another big prize
 from the EEG, which certainly helped to further the societies' goals).
+
+----------------------------------------------------------------------------------
+[next](../episode4/story.md)
