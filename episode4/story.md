@@ -23,3 +23,6 @@ Fortunately, Kerbal heads are thick, though, and — apart from a short dizzy sp
 A final photograph memorizes another successful feat of the Kerbinian Society for Astronavigation, even if not quite in their main field of endeavour.
 
 ![RAK-I crashed](./Max_Kalier-001:032-06:47:41.jpg)
+
+----------------------------------------------------------------------------------
+[next](../episode5/story.md)
