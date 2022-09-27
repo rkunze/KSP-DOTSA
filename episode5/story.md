@@ -65,5 +65,6 @@ Pathfinder I ended up in a highly elliptical orbit around Kerbin, with an apoaps
 ![Pathfinder I ](./Pathfinder_I-001:043-10:58:47.jpg)
 
 And as it turned out, there was indeed a region of elevated radiation around Kerbin, just as Kristian Kirbeland predicted. In fact, the data indicated that there might even be two such "radiation belts", separated by a region of (comparably) lower radiation.
+
 ----------------------------------------------------------------------------------
 [next](../episode6/story.md)
