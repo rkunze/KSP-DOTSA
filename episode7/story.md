@@ -79,3 +79,6 @@ Meanwhile, Pathfinder III started its scientific mission. And preliminary result
 ![Pathfinder III in orbit](./Pathfinder_III-001:091-03:09:20.jpg)
 
 And the analysis of the now so-called "antenna incident" finally concluded that the root cause had been a simple copying error — someone had accidentally used the antenna rating for the Pathfinder probe for calculating the radio reception range of the Alpha-AGU after separation from Pathfinder III. The recommended measure was to tighten up the review process for further mission plans.
+
+----------------------------------------------------------------------------------
+[next](../episode8/story.md)
