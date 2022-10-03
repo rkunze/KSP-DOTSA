@@ -20,3 +20,6 @@ So, a mere four munths after its first launch — and despite the fact of ongoin
 * And finally, work had already begun on the "Kerbin Orbit Sun Observatory".
 
 ![vehicle assembly](./vehicle-assembly.jpg)
+
+----------------------------------------------------------------------------------
+[next](../episode10/story.md)
