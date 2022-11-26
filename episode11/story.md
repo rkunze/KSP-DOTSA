@@ -12,19 +12,19 @@ Especially the last point makes the launch team nervous. But the alternative —
 
 ![WIMAS-I ready for launch](./WIMAS_I-001:132-08:28:58.jpg)
 
-In order to maximize the illuminated area of Kerbin that WIMAS-I will observe on half of each orbit, the launch is scheduled for noon. At exactly 09:00:00, mission control gives the launch command:
-
-> _Ignition!_
+In order to maximize the illuminated area of Kerbin that WIMAS-I will observe on half of each orbit, the launch is scheduled for noon. At exactly 09:00:00, mission control gives the launch command.
 
 ![WIMAS-I ignition](./WIMAS_I-001:132-09:00:00.jpg)
 
-> _Launch clamps free!_
+> _Ignition!_
 
 ![WIMAS-I launch](./WIMAS_I-001:132-09:00:01.jpg)
 
-> _We have liftoff!_
+> _Launch clamps free!_
 
 ![WIMAS-I liftoff](./WIMAS_I-001:132-09:00:14.jpg)
+
+> _We have liftoff!_
 
 The Sandstone booster carrying WIMAS-I roars into the slightly overcast sky, and — for the first time — pitches north (and even a little bit west) instead of east.
 
@@ -46,7 +46,7 @@ WIMAS-I atop the Satevis stage coasts to an Apoapsis of 95 km. The extra batteri
 
 Shortly before reaching apoapsis, the Satevis upper stage ignites as planned.
 
-In contrast to previous missions, this time — instead of just pointing prograde and hurling the payload as high as possible — the flight software makes sure that the apoapsis does not increase too much. And it cuts of the engine as soon as the orbit is circular (which is possible thanks to the ingenious engineers at Bluedog Design Bureau who came up with a system to stop a solid rocket before it runs out of fuel).
+In contrast to previous missions, this time — instead of just pointing prograde and hurling the payload as high as possible — the flight software makes sure that the apoapsis does not increase too much. And it cuts off the engine as soon as the orbit is circular (which is possible thanks to the ingenious engineers at Bluedog Design Bureau who came up with a system to stop a solid rocket before it runs out of fuel).
 
 ![WIMAS-I payload separation](./WIMAS_I-001:132-09:04:56.jpg)
 
