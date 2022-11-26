@@ -1,6 +1,6 @@
 # Year 1, Day 132: WIMAS-I
 
-Not even one minth after the launch of Pathfinder IV (12 days, one hour and four minutes, to be overly exact), another Sandstone/Satevis launcher sits on the pad. Ready to launch the first weather imaging satellite — or WIMAS-I for short.
+Not even one minth after the launch of Pathfinder IV (12 days, one hour and 56 minutes, to be overly exact), another Sandstone/Satevis launcher sits on the pad. Ready to launch the first weather imaging satellite — or WIMAS-I for short.
 
 Tension is high in mission control, because this launch again has a number of "firsts":
 
