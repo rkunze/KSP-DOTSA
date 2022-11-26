@@ -49,3 +49,6 @@ Just a little push, a mere 22 m/s ΔV. But enough to make sure the spent booster
 Meanwhile, the science crew takes control of Pathfinder IV, and immediately gets busy preparing it for it scientific mission: Measuring gamma rays in space over Kerbin.
 
 ![Pathfinder IV ready for science](./Pathfinder_IV-001%3A120-09%3A26%3A29.jpg)
+
+----------------------------------------------------------------------------------
+[next](../episode11/story.md)
